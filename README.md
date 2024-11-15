@@ -6,6 +6,11 @@ My first repository
 ### 1. **Big Bang Theory**
    - The Big Bang Theory is a popular sitcom that revolves around a group of socially awkward scientists and their interactions with the world around them. The series primarily focuses on Leonard Hofstadter and Sheldon Cooper, two physicists living in Pasadena, California, and their friends Howard Wolowitz, an aerospace engineer, and Rajesh Koothrappali, an astrophysicist. The show explores their personal and professional lives, their romantic interests, and their quirky but endearing friendship. The addition of Penny, an aspiring actress and their neighbor, adds a contrasting dynamic to their scientifically-driven lives.
 
-### 2. **Maze Runner**
+### 2. **The Maze Runner** 
+   -  The Maze Runner is a thrilling science fiction novel series by James Dashner, which has also been adapted into a successful film series. The story centers around Thomas, a teenager who wakes up in a mysterious and ever-changing maze with no memory of his past, alongside other boys who are similarly trapped. Together, they must navigate the maze, avoid deadly creatures called Grievers, and uncover the secrets behind their predicament. The series is packed with action, suspense, and twists as the characters strive to escape and uncover the truth.
 
+### 3. **The 100**
+   - The 100 is a post-apocalyptic science fiction drama series based on the book series by Kass Morgan. The story is set nearly a century after a nuclear apocalypse has devastated Earth. The remaining survivors, who live on a space station called the Ark, send 100 juvenile delinquents back to Earth to see if it is habitable again. These young people must navigate the dangers of a now unfamiliar planet, face various threats, and deal with their own internal conflicts as they struggle for survival. The series explores themes of survival, morality, and the human spirit.
+
+![alt text](TheBigBang.jpg)
    
